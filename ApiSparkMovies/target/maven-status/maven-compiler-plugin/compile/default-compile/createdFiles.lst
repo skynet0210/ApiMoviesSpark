@@ -1,0 +1,9 @@
+com\mycompany\apisparkmovies\config\DatabaseConfig.class
+com\mycompany\apispark\service\MoviesService.class
+com\mycompany\apisparkmovies\Application.class
+com\mycompany\apisparkmovies\MoviesApplication.class
+com\mycompany\apispark\transformer\JsonTransformer.class
+com\mycopany\apisparkmovies\dao\MoviesRespository.class
+com\mycompany\apisparkmovies\model\Movie.class
+com\mycopany\apisparkmovies\dao\MoviesRepositoryImpl.class
+com\mycompany\apispark\service\MoviesServiceImpl.class
